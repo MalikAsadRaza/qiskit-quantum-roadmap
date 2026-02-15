@@ -1,1 +1,25 @@
-Contributions are welcome!
+# Contributing to Qiskit Quantum Roadmap
+
+Thank you for your interest in contributing!
+
+This repository is maintained by **Dr. Asad Raza (Qiskit Advocate)** and is intended as a structured educational resource for learning quantum computing with Qiskit.
+
+---
+
+## 🎯 Contribution Goals
+
+We welcome contributions that:
+
+- Improve clarity of explanations
+- Add diagrams or conceptual improvements
+- Add new Qiskit notebooks
+- Improve hardware explanations
+- Expand the Qiskit v2.x practice exam section
+- Fix bugs or typos
+
+---
+
+## 📂 Repository Structure
+
+All contributions must follow the existing module structure:
+
