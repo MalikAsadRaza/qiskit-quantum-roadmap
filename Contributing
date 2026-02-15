@@ -23,3 +23,38 @@ We welcome contributions that:
 
 All contributions must follow the existing module structure:
 
+Do not create unrelated folders.
+
+---
+
+## 🧠 Content Quality Guidelines
+
+All contributions must:
+
+- Use clear, accurate explanations
+- Avoid copied copyrighted material
+- Include references where appropriate
+- Be technically correct
+- Be beginner-friendly but precise
+- Keep consistent formatting
+
+---
+
+## 📓 Notebook Standards
+
+All notebooks must:
+
+- Start with a short objective section
+- Explain each step in markdown cells
+- Keep code clean and minimal
+- Run without errors
+- Include 3–5 practice questions at the end
+
+---
+
+## 🔄 Contribution Workflow
+
+1. Fork the repository
+2. Create a new branch:
+
+
